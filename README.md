@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Machine Learning
 - 🌱 I’m currently learning ... Computer Vision
 - 💞️ I’m looking to collaborate on ... NLP projects
-- 📫 How to reach me ... email me @arshadshaikk01@gmail.com
+- 📫 How to reach me ... email me @mahammadarshadayub@usf.edu
 - 😄 Pronouns: ... He/Him
 
 <!---
